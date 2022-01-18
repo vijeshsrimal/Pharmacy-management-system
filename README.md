@@ -1,1 +1,1 @@
-# Pharmacy-management-system made by Vijesh
+# Pharmacy-management-system made by Vijesh and VR
